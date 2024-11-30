@@ -44,17 +44,17 @@ A full-stack **Task Management Application** built using the **MERN stack** (Mon
 
 Clone the repository to your local machine:
 
-### **2.Set Up the Backend
+### 2.Set Up the Backend
 -cd backend
 -npm install
 -MONGO_URI=mongodb://127.0.0.1:27017/task_management
 -PORT=5000
-### **3.Set Up the Frontend
+### 3.Set Up the Frontend
 -cd frontend
 -npm install
-### **4.Start the Backend Server
+### 4.Start the Backend Server
 -npm run dev
-### **5.Start the Frontend Server
+### 5.Start the Frontend Server
 -npm start
 ```bash
 git clone https://github.com/your-username/task-management-app.git
